@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Prérequis**
-Rédigez son problème en Markdown, de manière à ce que les commandes et messages d'erreurs soient bien affichés
+Rédigez son problème en Markdown, de manière à ce que les commandes et messages d'erreurs soient bien affichés (regardés l'onglet preview avant de "submit new issue"
 
 Exemple de mise en place de code en Markdown
 ```bash
