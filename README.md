@@ -2,10 +2,21 @@
 Espace questions / debug sur le TP drone iROS
 
 
-Pour poser une question ou de l'aide : merci d'ouvrir une issue.
+Pour poser une question ou de l'aide : merci d'ouvrir une issue
 
 
-Template issues : 
+Les issues devront être écrites en markdown pour une meilleure lisibilité
 
-Nom du binôme/trinôme
-Questions
+Exemple de mise en place de code en Markdown
+```bash
+roslaunch pkg projet.launch
+```
+
+Vous pouvez faire pareil en python : 
+```python
+def __init__(self):
+    rospy.init_node('exemple')
+```
+
+Référence : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
